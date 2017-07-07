@@ -1,0 +1,488 @@
+﻿p.Body {
+        font-family:Calibri;
+        font-size:12pt;
+}
+p.BodyLevel1 {
+              margin:10px 20px;
+              padding:0px;
+              font:normal 11pt/140% "Calibri";
+              color:#323232;
+              text-indent:0px;
+              word-spacing:normal;
+              letter-spacing:normal;
+              text-decoration:none;
+              text-transform:none;
+}
+p.ChapterTitle {
+                color:black;
+                font-family:Calibri;
+                font-size:24pt;
+                font-style:normal;
+                font-weight:bold;
+                font-variant:normal;
+                margin-bottom:3.0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+                margin-top:24.0pt;
+                text-align:Left;
+                text-indent:0pt;
+                text-transform:uppercase;
+                vertical-align:baseline;
+}
+p.BodyBullet {
+              color:#000000;
+              font-family:Calibri;
+              font-size:12pt;
+              font-style:normal;
+              font-variant:normal;
+              font-weight:normal;
+              margin:6pt 2px;
+              padding-left:110px;
+              text-transform:none;
+              color:#323232;
+              text-decoration:none;
+              letter-spacing:normal;
+              word-spacing:normal;
+              text-indent:-25px;
+              list-style-type:circle;
+}
+p.BodyText {
+            color:#515151;
+            font-family:Calibri;
+            font-size:12pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:normal;
+            line-height:16pt;
+            margin-bottom:8pt;
+            margin-left:6pt;
+            margin-right:0pt;
+            margin-top:8pt;
+            text-align:Left;
+            text-indent:0pt;
+            text-transform:none;
+            vertical-align:baseline;
+}
+p.CautionText {
+               background:#f8f8f8 url("icon-caution.png")    no-repeat scroll 10px 10px;
+               background-size:40px 40px;
+               border:1px solid #dddddd;
+               word-spacing:normal;
+               letter-spacing:normal;
+               text-decoration:none;
+               text-transform:none;
+               font:bold normal 11pt/140% "Calibri";
+               color:#323232;
+               margin:20px 20px 20px 20px;
+               padding:20px 20px 20px 70px;
+               vertical-align:top;
+               -webkit-border-radius:10px;
+               -moz-border-radius:10px;
+               border-radius:10px;
+}
+p.Footnote {
+            color:#515151;
+            font-family:Calibri;
+            font-size:10pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:normal;
+            line-height:16pt;
+            margin-bottom:6pt;
+            margin-left:6pt;
+            margin-right:0pt;
+            margin-top:9.0pt;
+            text-align:Left;
+            text-indent:0pt;
+            text-transform:none;
+            vertical-align:baseline;
+}
+p.Header {
+          color:#3ca1c4;
+          font-family:Calibri;
+          font-size:12.0pt;
+          font-style:normal;
+          font-variant:normal;
+          font-weight:normal;
+          margin-bottom:0.0pt;
+          margin-left:8.50025196850394pt;
+          margin-right:0pt;
+          margin-top:0.0pt;
+          text-align:Left;
+          text-indent:0pt;
+          text-transform:uppercase;
+          vertical-align:baseline;
+}
+p.Heading1 {
+            color:#33647f;
+            font-family:Calibri;
+            font-size:18pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:600;
+            margin-bottom:0.0pt;
+            margin-left:0pt;
+            margin-right:0pt;
+            margin-top:20.0pt;
+            text-align:Left;
+            text-indent:0pt;
+            text-transform:uppercase;
+            vertical-align:baseline;
+}
+p.Heading2 {
+            color:#85a2b2;
+            font-family:Calibri;
+            font-size:16pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:600;
+            margin-bottom:0.0pt;
+            margin-left:0pt;
+            margin-right:0pt;
+            margin-top:20.0pt;
+            text-align:Left;
+            text-indent:0pt;
+            text-transform:uppercase;
+            vertical-align:baseline;
+}
+p.Heading3 {
+            color:#c63527;
+            font-family:Calibri;
+            font-size:16pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:600;
+            letter-spacing:.1em;
+            margin-bottom:3.0pt;
+            margin-left:0pt;
+            margin-right:0pt;
+            margin-top:13.5pt;
+            text-align:Left;
+            text-indent:17pt;
+            text-transform:uppercase;
+            vertical-align:baseline;
+}
+p.TopicHeading {
+                color:#4D0D65;
+                font-family:Calibri;
+                font-size:18pt;
+                font-style:normal;
+                font-variant:normal;
+                font-weight:600;
+                margin-bottom:12.0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+                margin-top:20.0pt;
+                text-align:Left;
+                text-indent:0pt;
+                text-transform:uppercase;
+                vertical-align:baseline;
+}
+p.NoteText {
+            background:#f8f8f8 url("icon-note.png")    no-repeat scroll 10px 10px;
+            background-size:40px 40px;
+            border:1px solid #dddddd;
+            word-spacing:normal;
+            letter-spacing:normal;
+            color:#323232;
+            text-decoration:none;
+            text-transform:none;
+            margin:20px 20px 20px 20px;
+            padding:20px 20px 20px 70px;
+            font:normal 11pt/140% "Calibri";
+            vertical-align:top;
+            -webkit-border-radius:10px;
+            -moz-border-radius:10px;
+            border-radius:10px;
+}
+p.Numbered1 {
+             font-family:Calibri;
+             font-size:12pt;
+             font-style:normal;
+             font-variant:normal;
+             font-weight:normal;
+             margin:10px 20px;
+             padding-left:87px;
+             color:#323232;
+             text-decoration:none;
+             letter-spacing:normal;
+             word-spacing:normal;
+             list-style-type:decimal;
+}
+p.Numbered {
+            color:#323232;
+            font-family:Calibri;
+            font-size:12pt;
+            font-style:normal;
+            font-variant:normal;
+            font-weight:normal;
+            margin:10px 20px;
+            padding-left:87px;
+            text-transform:none;
+            color:#323232;
+            text-decoration:none;
+            letter-spacing:normal;
+            word-spacing:normal;
+            list-style-type:decimal;
+}
+p.StepContinued {
+                 margin:10px 20px;
+                 text-indent:-87px;
+                 padding-left:87px;
+                 font:normal 12pt/140% "Calibri";
+                 text-transform:none;
+                 color:#323232;
+                 text-decoration:none;
+                 letter-spacing:normal;
+                 word-spacing:normal;
+}
+p.StepAlpha {
+             text-indent:-25px;
+             padding-left:110px;
+             font:normal 12pt/140% "Calibri";
+             text-transform:none;
+             color:#323232;
+             text-decoration:none;
+             letter-spacing:normal;
+             word-spacing:normal;
+             margin:10px 20px;
+             list-style-type:lower-alpha;
+}
+p.StepAlphaContinued {
+                      color:#323232;
+                      font-family:Calibri;
+                      font-size:12pt;
+                      font-style:normal;
+                      font-variant:normal;
+                      font-weight:normal;
+                      line-height:16pt;
+                      margin-bottom:2.0pt;
+                      margin-left:65.1968503937008pt;
+                      margin-right:0pt;
+                      margin-top:2.0pt;
+                      text-align:Left;
+                      text-indent:0pt;
+                      text-transform:none;
+                      vertical-align:baseline;
+}
+p.TableAnchor {
+               color:#3b373d;
+               font-family:Calibri;
+               font-size:6.0pt;
+               font-style:normal;
+               font-variant:normal;
+               font-weight:normal;
+               margin-bottom:1.0pt;
+               margin-left:0pt;
+               margin-right:0pt;
+               margin-top:0.0pt;
+               text-align:Left;
+               text-indent:0pt;
+               text-transform:none;
+               vertical-align:baseline;
+}
+p.TableBodyText {
+                 color:#515151;
+                 font-family:Calibri;
+                 font-size:12pt;
+                 font-style:normal;
+                 font-variant:normal;
+                 font-weight:normal;
+                 margin-bottom:0.0pt;
+                 margin-left:0pt;
+                 margin-right:0pt;
+                 margin-top:0.0pt;
+                 text-align:Left;
+                 text-indent:0pt;
+                 text-transform:none;
+                 vertical-align:baseline;
+}
+p.TableHeading {
+                color:#3b373d;
+                font-family:Calibri;
+                font-size:12.0pt;
+                font-style:bold;
+                font-variant:normal;
+                font-weight:bold;
+                margin-bottom:1.0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+                margin-top:0pt;
+                text-align:Left;
+                text-indent:0pt;
+                text-transform:none;
+                vertical-align:baseline;
+}
+p.WarningText {
+               background:#f8f8f8 url("icon-danger.png")    no-repeat scroll 10px 10px;
+               background-size:40px 40px;
+               border:1px solid #dddddd;
+               word-spacing:normal;
+               letter-spacing:normal;
+               color:#323232;
+               text-decoration:none;
+               text-transform:none;
+               font:bold normal 11pt/140% "Calibri";
+               margin:20px 20px 20px 20px;
+               padding:20px 20px 20px 70px;
+               -webkit-border-radius:10px;
+               -moz-border-radius:10px;
+               border-radius:10px;
+}
+span.Bold {
+           color:#666666;
+           font-family:Calibri;
+           font-weight:bold;
+           text-transform:none;
+           vertical-align:baseline;
+}
+span.BulletSymbol {
+                   color:#3aa881;
+                   font-family:Calibri;
+                   font-size:10.0pt;
+                   font-style:normal;
+                   font-variant:normal;
+                   font-weight:normal;
+                   text-transform:none;
+                   vertical-align:baseline;
+}
+span.BulletFont {
+                 color:#4c4c4c;
+                 font-family:Calibri;
+                 font-size:14.0pt;
+                 font-style:normal;
+                 font-variant:normal;
+                 font-weight:bold;
+                 text-transform:none;
+                 vertical-align:baseline;
+}
+span.Code {
+           color:#808080;
+           font-family:Calibri;
+           font-size:10.0pt;
+           font-style:normal;
+           font-variant:normal;
+           font-weight:normal;
+           text-transform:none;
+           vertical-align:baseline;
+}
+span.GreyTableBodyText {
+                        color:#dddddd;
+                        font-family:Calibri;
+                        font-size:10.0pt;
+                        font-variant:normal;
+                        font-weight:normal;
+                        text-transform:none;
+                        vertical-align:baseline;
+}
+span.Emphasis {
+               font-style:italic;
+}
+span.EquationVariables {
+                        font-style:italic;
+}
+span.Hyperlink {
+                color:#22145c;
+                font-weight:500;
+                vertical-align:baseline;
+}
+span.Hyperlink_BOLD {
+                     color:#22145c;
+                     font-weight:500;
+                     vertical-align:baseline;
+}
+span.StepNumber {
+                 color:#4c4c4c;
+                 font-family:Calibri;
+                 font-size:12.0pt;
+                 font-style:normal;
+                 padding-left:2px;
+                 font-variant:normal;
+                 font-weight:bold;
+                 text-transform:none;
+                 vertical-align:baseline;
+}
+span.PageNumber {
+                 color:#3ca1c4;
+                 font-family:"Geometr415 Lt BT";
+                 font-size:18.0pt;
+                 font-style:normal;
+                 font-variant:normal;
+                 font-weight:normal;
+                 text-transform:none;
+                 vertical-align:baseline;
+}
+span.ReferenceText {
+                    color:#3ca1c4;
+                    font-family:"Geometr415 Md BT";
+                    font-size:10.0pt;
+                    font-style:normal;
+                    font-variant:normal;
+                    font-weight:normal;
+                    text-transform:none;
+                    vertical-align:baseline;
+}
+span.Underline {
+                color:#000000;
+                font-family:"Geometr415 Lt BT";
+                font-size:10.0pt;
+                font-style:normal;
+                font-variant:normal;
+                font-weight:normal;
+                text-decoration:underline;
+                text-transform:none;
+                vertical-align:baseline;
+}
+span.XRef {
+           color:#CBD3AB;
+           font-size:9px;
+           font-style:normal;
+           font-variant:normal;
+           font-weight:bold;
+           text-transform:none;
+           vertical-align:baseline;
+}
+table.MinimalBlue {
+                   border-collapse:collapse;
+                   margin-bottom:12.0pt;
+                   margin-left:14.1732283464567pt;
+                   margin-right:0pt;
+                   margin-top:12.0pt;
+                   padding-bottom:4pt;
+                   padding-left:6pt;
+                   padding-right:6pt;
+                   padding-top:6pt;
+                   text-align:left;
+}
+table.BorderBlue {
+                  border-collapse:collapse;
+                  margin-bottom:12.0pt;
+                  margin-left:4pt;
+                  margin-right:0pt;
+                  margin-top:12.0pt;
+                  padding-bottom:4pt;
+                  padding-left:6pt;
+                  padding-right:6pt;
+                  padding-top:6pt;
+                  text-align:left;
+}
+table.FormatB {
+               border-collapse:collapse;
+               margin-bottom:0.0pt;
+               margin-left:42.5196850393701pt;
+               margin-right:4pt;
+               margin-top:0.0pt;
+               padding-bottom:2pt;
+               padding-left:2pt;
+               padding-right:2pt;
+               padding-top:2pt;
+               text-align:left;
+}
+.pt_footer {
+            font-family:Calibri;
+            font-size:1em;
+            background:#eeeeee;
+            color:#616161;
+            text-align:center;
+            padding:0.1px;
+}
